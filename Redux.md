@@ -1,4 +1,6 @@
-#Redux is a state management library often used with React to manage the application state in a predictable way. It provides a central store for the entire application and follows a strict unidirectional data flow.
+"Redux"
+
+Redux is a state management library often used with React to manage the application state in a predictable way. It provides a central store for the entire application and follows a strict unidirectional data flow.
 
 #### Key Concepts of Redux:
 1. **Store**: A central object where the state of the entire application is stored.
